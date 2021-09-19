@@ -1,4 +1,7 @@
-# app-peloton
+# Xamarin Edits - Learning
+
+Initial app create by James Montemagno, info below
+
 Peloton app clone built with Xamarin.Forms!@
 
 Live streaming every Friday at: http://twitch.tv/jamesmontemagno
